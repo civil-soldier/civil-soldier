@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @civil-soldier
+- 👋 Hi, I’m YASH
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on full stack web development 
